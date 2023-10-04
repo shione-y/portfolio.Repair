@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 74860bc4e2596a441b4e2121b0c69a06
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Sound: {instanceID: 0}
+  - GC: {instanceID: 0}
+  - difference: {instanceID: 0}
+  - _difference: {instanceID: 0}
+  - _break: {fileID: 8300000, guid: 0f7a946cce8d85b49a83829591259670, type: 3}
+  - _smoke: {fileID: 8300000, guid: 458bc8d22a1e05641977b78a98b280a0, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
