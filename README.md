@@ -1,14 +1,14 @@
 # portfolio.Repair
-##Repair(３D謎解き脱出ゲーム)：TGS出展作品
+## Repair(３D謎解き脱出ゲーム)：TGS出展作品
 
-###Unityプロジェクトファイル上のファイル位置
+### Unityプロジェクトファイル上のファイル位置
 
 GimmickObject　GimmickSystem　UISystem　：　Asset/YS/scripts
 
 UpaSceneManager　：　Asset/Scripts/UI
 
 
-###各フォルダ説明
+### 各フォルダ説明
 
 GimmickObject　：　ステージ上のギミックの動作処理
 
